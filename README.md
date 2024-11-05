@@ -5,7 +5,9 @@ to start the project
 
 
 git clone https://github.com/pankia/DEVDEPENDENCY.git
+
 cd DEVDEPENDENCY
+
 ### Install
 
 Install this project with:
